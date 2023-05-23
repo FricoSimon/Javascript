@@ -9,8 +9,8 @@ class People {
     }
 };
 class Student extends People {
-    constructor() {
-        super(this.name, this.age, this.gender)
+    constructor(name, age, gender, university) {
+        super(name, age, gender)
         this.university = university;
     }
 }
@@ -19,8 +19,13 @@ const philip = new People("Philip", 22, "Male");
 const juhendi = new People("Juhendi", 21, "Male");
 const wilson = new People("Wilson", 21, "Male");
 const friko = new People();
+const Silvano = new Student("Sill", 23, "Male", "ITHB");
 
 console.log(philip);
 console.log(juhendi);
 console.log(wilson);
 console.log(friko);
+console.log(friko.work());
+console.log(Silvano);
+console.log(Silvano.work());
+
