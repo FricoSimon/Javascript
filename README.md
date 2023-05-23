@@ -7,7 +7,8 @@ Welcome to my repository!
 
 This is my **JS repository**, I will post my work/project about JS in this repo  
 These are the list for my project that I have created  
-- people.js
+- people.js (OOP concept in people)
+- os.mjs (get a detailed information about your pc/laptop)
 - more to come...
 
 ---  
