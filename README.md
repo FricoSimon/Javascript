@@ -10,6 +10,7 @@ These are the list for my project that I have created
 - people.js (OOP concept in people)
 - os.mjs (Get detailed information about your pc/laptop)
 - time.js (Timeout concept in making tea)
+- path.mjs (Get detailed information about your file's address)
 - more to come...
 
 ---  
