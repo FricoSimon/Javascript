@@ -12,6 +12,7 @@ These are the list for my project that I have created
 - time.js (Timeout concept in making tea)
 - path.mjs (Get detailed information about your file's address)
 - filesystem.mjs (Basic example of FS module/promises)
+- dns.mjs (Get DNS information)
 - more to come...
 
 ---  
