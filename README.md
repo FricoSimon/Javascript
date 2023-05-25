@@ -13,6 +13,9 @@ These are the list for my project that I have created
 - path.mjs (Get detailed information about your file's address)
 - filesystem.mjs (Basic example of FS module/promises)
 - dns.mjs (Get DNS information)
+- event.mjs (Event listener)
+- process.mjs (Process listener)
+- readline.mjs (Simple input output)
 - more to come...
 
 ---  
