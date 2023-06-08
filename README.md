@@ -16,6 +16,9 @@ These are the list for my project that I have created
 - event.mjs (Event listener)
 - process.mjs (Process listener)
 - readline.mjs (Simple input output)
+- err.mjs (Generate error report)
+- buffer.mjs (Buffer converter)
+- timer.mjs (Timers promises)
 - more to come...
 
 ---  
