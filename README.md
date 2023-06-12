@@ -19,6 +19,7 @@ These are the list for my project that I have created
 - err.mjs (Generate error report)
 - buffer.mjs (Buffer converter)
 - timer.mjs (Timers promises)
+- url.mjs (Get URL infos)
 - more to come...
 
 ---  
