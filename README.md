@@ -20,6 +20,9 @@ These are the list for my project that I have created
 - buffer.mjs (Buffer converter)
 - timer.mjs (Timers promises)
 - url.mjs (Get URL infos)
+- promise.js (Simple promise example with chaining and error handling)
+- promiseAPI.js (Simple promise to fetch data from API)
+- async.js (Simple Async/Await code)
 - more to come...
 
 ---  
